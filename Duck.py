@@ -9,3 +9,5 @@ def pato (lista, posicion):
 
 resultado=pato(lista, posicion)
 print(resultado)
+
+#Cambio
